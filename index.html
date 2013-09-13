@@ -8,12 +8,12 @@ layout: default
           <a id="forkme_banner" href="https://github.com/zhangbaitong">View on GitHub</a>
 
           <h1 id="project_title">Zhangbaitong.github.io</h1>
-          <h2 id="project_tagline">I am zhangbaitong.It works well..add posaat.</h2>
+          <h2 id="project_tagline">I am zhangbaitong.It works well.:)</h2>
 
         </header>
     </div>
 　　　　{% for post in site.posts %}
-　　　　　　<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+　　　　　　<li>{{ post.date | date_to_string }}<a href="{{ post.url }}">{{ post.title }}</a></li>
 　　　　{% endfor %}
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
