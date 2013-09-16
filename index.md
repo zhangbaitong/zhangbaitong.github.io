@@ -1,14 +1,9 @@
 ---
 layout: page
-title: hello
-tagline: tagline
+title: Hello World!
+tagline: Supporting tagline111
 ---
 {% include JB/setup %}
-
-##追逐理想
-##性格决定命运，气度影响格局
-##对当前的我来说，这里本是一个终点，但也可以看做是一个起点，暂时放下你，慢慢的完善你。
-
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
