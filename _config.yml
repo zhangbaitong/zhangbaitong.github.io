@@ -8,10 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Zhangbaitong Blog
+title : ZhangBaiTong Blog
 tagline: Site Tagline
 author :
-  name : Zhang baitong
+  name : Zhang BaiTong
   email : zhangbaitong@gmail.com
   github : zhangbaitong
   twitter : zhangbaitong
