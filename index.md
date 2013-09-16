@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline111
+tagline: 性格决定命运，气度影响格局
 ---
 {% include JB/setup %}
 
