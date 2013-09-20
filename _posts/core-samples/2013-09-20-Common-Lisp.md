@@ -8,6 +8,6 @@ tags : [intro, beginner, jekyll, tutorial]
 
 ## Common Lisp 
 
-### 安装
+### 瀹夎
 
-1.使用[lispbox](http://common-lisp.net/project/lispbox/)
+1.浣跨敤[lispbox](http://common-lisp.net/project/lispbox/)
