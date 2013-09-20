@@ -11,3 +11,5 @@ tags : [intro, beginner, jekyll, tutorial]
 ### 安装
 
 1.使用[lispbox](http://common-lisp.net/project/lispbox/)
+
+2.中文编码设置
