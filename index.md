@@ -16,7 +16,7 @@ tagline: 性格决定命运，气度影响格局
 本站基于[Jekyll Bootstrap](http://jekyllbootstrap.com),在此表示感谢。
 
     
-## 文章列表22
+## 文章列表
 
 
 <ul class="posts">
